@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Estou cursando Desenvolvimento de Aplicações Web no Senac, planejo investir em mais cursos no futuro para ampliar meus conhecimentos. Pretendo adicionar mais coisas por aqui.
+<p align="center">:)
   
 #
 
