@@ -4,7 +4,8 @@
   </a>
 </div>
 
-<p align="center">Meu nome é Luana, Tenho 18 anos. :)
+<p align="center">Meu nome é Luana, Tenho 18 anos.
+   iniciando na área de desenvolvimento web :)
   
 #
 
