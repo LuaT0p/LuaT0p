@@ -14,7 +14,7 @@
 
 <h3 align="left">Entre em contato comigo!</h3>
 
-<a href="Discordapp.com/users/1225694486558937128"> ![Static Badge](https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=FF00F6&logoSize=Auto&label=Discord&labelColor=000&color=000)</a>
+[![Static Badge](https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=FF00F6&logoSize=Auto&label=Discord&labelColor=000&color=000)](https://Discordapp.com/users/1225694486558937128)
   
 <h3 align="left">My Stack ~</h3>
 
