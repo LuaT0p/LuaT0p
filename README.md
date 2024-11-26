@@ -14,14 +14,14 @@
 
 <h3 align="left">Entre em contato comigo!</h3>
 
-![Static Badge](https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=FF00F6&logoSize=Auto&label=Discord&labelColor=000&color=000&link=Discordapp.com%2Fusers%2F1225694486558937128)
+<a href="Discordapp.com/users/1225694486558937128"> ![Static Badge](https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=FF00F6&logoSize=Auto&label=Discord&labelColor=000&color=000)</a>
   
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img a href="Discordapp.com/users/1225694486558937128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45" alt="git logo" />
  
