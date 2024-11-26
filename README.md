@@ -8,7 +8,9 @@
   
 #
 
-<img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+<img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"> 
+
+<br>
 
 <h3 align="left">Entre em contato comigo!</h3>
 
