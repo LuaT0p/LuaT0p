@@ -8,11 +8,11 @@
   
 #
 
-<br>
+<img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
-<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+<h3 align="left">Entre em contato comigo!</h3>
 
-  <br>
+![Static Badge](https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=FF00F6&logoSize=Auto&label=Discord&labelColor=000&color=000&link=Discordapp.com%2Fusers%2F1225694486558937128)
   
 <h3 align="left">My Stack ~</h3>
 
@@ -22,9 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45" alt="git logo" />
-
-  <br>
-  <br>
+ 
   <br>
   
 </div>
