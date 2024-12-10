@@ -8,9 +8,9 @@
   
 #
 
-<img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"> 
-
 <br>
+<br>
+<img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"> 
 
 <h3 align="left">Entre em contato comigo!</h3>
 
@@ -24,8 +24,7 @@
   <img a href="Discordapp.com/users/1225694486558937128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45" alt="git logo" />
- 
-  <br>
+
   
 </div>
 
