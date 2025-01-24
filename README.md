@@ -1,12 +1,33 @@
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&width=435&lines=%E2%8A%B9+Bem+Vindo(a)+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%8A%B9+%CB%99%E1%B5%95%CB%99+Sobre+mim+%E2%8A%B9" alt="Typing SVG" /></a>
   </a>
 </div>
 
-<p align="center">Meu nome é Luana, Tenho 18 anos. <br> Iniciando na área de desenvolvimento web :)
+<p align="center">Meu nome é Luana, Tenho 19 anos. <br> Estou iniciando na área de desenvolvimento web :)
   
 #
+
+<div align="center">
+<pre style="display: inline-block; text-align: center;">
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
+⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
+⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
+⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
+⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
+⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
+⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
+⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
+
+</pre>
+</div>
 
 <br>
 <br>
@@ -39,3 +60,12 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuaT0p&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+<br>
+<br>
+
+<p align= "center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+</p>
+
+---
