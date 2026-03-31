@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center">Meu nome é Luana, Tenho 19 anos. <br> Estou iniciando na área de desenvolvimento web :)
+<p align="center">Meu nome é Luana, Tenho 20 anos. <br> Estou iniciando na área de desenvolvimento web :)
   
 #
 
@@ -54,11 +54,15 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuaT0p&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <div>
+    
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaT0p&show_icons=true&theme=radical)
+</div>
 
-  <a href="https://github.com/LuaT0p/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaT0p&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaT0p&size_weight=0.5&count_weight=0.5)
+</div>
 </div>
 
 <br>
