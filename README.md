@@ -46,25 +46,6 @@
   <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45" alt="git logo"/>
 
-  
-</div>
-
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <div>
-    
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaT0p&show_icons=true&theme=radical)
-</div>
-
-<div>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaT0p&size_weight=0.5&count_weight=0.5)
-</div>
-</div>
-
 <br>
 <br>
 
