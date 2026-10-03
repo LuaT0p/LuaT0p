@@ -29,6 +29,14 @@
 </pre>
 </div>
 
+<div align="center">
+  
+![LuaT0p's Stats](https://github-readme-stats.vercel.app/api?username=LuaT0p&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+<br>
+![LuaT0p's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaT0p&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
 <br>
 <br>
 <img align="right" alt="" height="180px" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"> 
